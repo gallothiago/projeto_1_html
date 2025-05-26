@@ -1,0 +1,58 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#header {
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.13);
+    color: white;
+}
+
+#foto {
+    text-align: center;
+    color: white;
+    padding: 10px;
+    background-color: rgb(99, 96, 95);
+}
+
+#biografia {
+    text-align: center;
+    margin: 20px;
+    color: white;
+}
+
+#h21 {
+    text-align: center;
+    color: white;
+}
+
+#negrito {
+    font-weight: bold;
+    color: white;
+}
+
+#discografia {
+    margin: 20px;
+    color: white;
+}
+
+#citacoes {
+    text-align: center;
+    margin: 20px;
+    color: rgb(187, 12, 12);
+}
+
+#imagem-show {
+    text-align: center;
+    margin: 20px;
+    background-color: rgba(245, 11, 11, 0.13);
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+    background-color: rgba(199, 9, 9, 0.13);
+    color: white;
+    padding: 10px;
+}
